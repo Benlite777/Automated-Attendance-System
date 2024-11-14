@@ -91,3 +91,11 @@ To set up the Automated Attendance System locally, follow these steps:
 
 
 
+
+## Output
+<img width="1438" alt="Screenshot 2024-11-14 at 6 29 23 PM" src="https://github.com/user-attachments/assets/4d1a3e04-7263-4929-b52f-d3cf753c1d80">
+<img width="1602" alt="Screenshot 2024-11-14 at 6 29 07 PM" src="https://github.com/user-attachments/assets/10fd546d-2dc9-4790-ba7e-21ada9657eb8">
+
+
+
+
