@@ -84,9 +84,10 @@ To set up the Automated Attendance System locally, follow these steps:
 
 ## Contributors
 
+- Benhur Stephen Kumar 
 - Rahul A Gowda
 - Santhosh R
 - S Naveen Gowda
-- Benhur Stephen Kumar 
+
 
 
